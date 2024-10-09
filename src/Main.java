@@ -2,7 +2,6 @@ public class Main {
     public static void main(String[] args) {
         {
             //Задание № 1
-
             int myInteger = 10;
             byte smallNumber = 20;
             short mediumNumber = 30000;
@@ -19,8 +18,6 @@ public class Main {
         }
         {
             //Задание № 2
-
-
             double value1 = 27.12; // double for decimal values
             long value2 = 987678965549L; // long for large integer values
             double value3 = 2.786; // double for decimal values
@@ -39,7 +36,6 @@ public class Main {
         }
         {
             //Задание № 3
-
             int totalStudents = 23 + 27 + 30;
 
             int totalSheets = 480;
